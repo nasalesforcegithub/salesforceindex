@@ -158,4 +158,46 @@
 <sitemap>
 <loc>https://help.salesforce.com/apex/Help_DocSiteMapExternalKB?t=gs&language=no&page=1 </loc>
 </sitemap>
+<sitemap>
+<loc>https://help.salesforce.com/apex/Help_SiteMapExternal?page=1&producttype=release-notes </loc>
+</sitemap>
+<sitemap>
+<loc>https://help.salesforce.com/apex/Help_SiteMapExternal?page=2&producttype=release-notes </loc>
+</sitemap>
+<sitemap>
+<loc>https://help.salesforce.com/apex/Help_SiteMapExternal?page=3&producttype=release-notes </loc>
+</sitemap>
+<sitemap>
+<loc>https://help.salesforce.com/apex/Help_SiteMapExternal?page=4&producttype=release-notes </loc>
+</sitemap>
+<sitemap>
+<loc>https://help.salesforce.com/apex/Help_SiteMapExternal?page=5&producttype=release-notes </loc>
+</sitemap>
+<sitemap>
+<loc>https://help.salesforce.com/apex/Help_SiteMapExternal?page=6&producttype=release-notes </loc>
+</sitemap>
+<sitemap>
+<loc>https://help.salesforce.com/apex/Help_SiteMapExternal?page=7&producttype=release-notes </loc>
+</sitemap>
+<sitemap>
+<loc>https://help.salesforce.com/apex/Help_SiteMapExternal?page=8&producttype=release-notes </loc>
+</sitemap>
+<sitemap>
+<loc>https://help.salesforce.com/apex/Help_SiteMapExternal?page=9&producttype=release-notes </loc>
+</sitemap>
+<sitemap>
+<loc>https://help.salesforce.com/apex/Help_SiteMapExternal?page=10&producttype=release-notes </loc>
+</sitemap>
+<sitemap>
+<loc>https://help.salesforce.com/apex/Help_SiteMapExternal?page=11&producttype=release-notes </loc>
+</sitemap>
+<sitemap>
+<loc>https://help.salesforce.com/apex/Help_SiteMapExternal?page=12&producttype=release-notes </loc>
+</sitemap>
+<sitemap>
+<loc>https://help.salesforce.com/apex/Help_SiteMapExternal?page=13&producttype=release-notes </loc>
+</sitemap>
+<sitemap>
+<loc>https://help.salesforce.com/apex/Help_SiteMapExternal?page=14&producttype=release-notes </loc>
+</sitemap>  
 </sitemapindex>
