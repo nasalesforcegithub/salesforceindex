@@ -1,6 +1,161 @@
-<?xml version="1.0" encoding="UTF-8"?> 
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
-<url>
-  <loc>http://help.salesforce.com/?</loc>
-</url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<sitemap>
+<loc>https://help.salesforce.com/apex/Help_DocSiteMapExternalKB?t=ka&language=en_US&page=1 </loc>
+</sitemap>
+<sitemap>
+<loc>https://help.salesforce.com/apex/Help_DocSiteMapExternalKB?t=ka&language=en_US&page=2 </loc>
+</sitemap>
+<sitemap>
+<loc>https://help.salesforce.com/apex/Help_DocSiteMapExternalKB?t=ka&language=en_US&page=3 </loc>
+</sitemap>
+<sitemap>
+<loc>https://help.salesforce.com/apex/Help_DocSiteMapExternalKB?t=ka&language=ja&page=1 </loc>
+</sitemap>
+<sitemap>
+<loc>https://help.salesforce.com/apex/Help_DocSiteMapExternalKB?t=ka&language=it&page=1 </loc>
+</sitemap>
+<sitemap>
+<loc>https://help.salesforce.com/apex/Help_DocSiteMapExternalKB?t=ka&language=de&page=1 </loc>
+</sitemap>
+<sitemap>
+<loc>https://help.salesforce.com/apex/Help_DocSiteMapExternalKB?t=ka&language=es&page=1 </loc>
+</sitemap>
+<sitemap>
+<loc>https://help.salesforce.com/apex/Help_DocSiteMapExternalKB?t=ka&language=fr&page=1 </loc>
+</sitemap>
+<sitemap>
+<loc>https://help.salesforce.com/apex/Help_DocSiteMapExternalKB?t=ka&language=nl_NL&page=1 </loc>
+</sitemap>
+<sitemap>
+<loc>https://help.salesforce.com/apex/Help_DocSiteMapExternalKB?t=ka&language=sv&page=1 </loc>
+</sitemap>
+<sitemap>
+<loc>https://help.salesforce.com/apex/Help_DocSiteMapExternalKB?t=ka&language=da&page=1 </loc>
+</sitemap>
+<sitemap>
+<loc>https://help.salesforce.com/apex/Help_DocSiteMapExternalKB?t=ka&language=fi&page=1 </loc>
+</sitemap>
+<sitemap>
+<loc>https://help.salesforce.com/apex/Help_DocSiteMapExternalKB?t=ka&language=pt_BR&page=1 </loc>
+</sitemap>
+<sitemap>
+<loc>https://help.salesforce.com/apex/Help_DocSiteMapExternalKB?t=ka&language=ru&page=1 </loc>
+</sitemap>
+<sitemap>
+<loc>https://help.salesforce.com/apex/Help_DocSiteMapExternalKB?t=ka&language=ko&page=1 </loc>
+</sitemap>
+<sitemap>
+<loc>https://help.salesforce.com/apex/Help_DocSiteMapExternalKB?t=ka&language=zh_CN&page=1 </loc>
+</sitemap>
+<sitemap>
+<loc>https://help.salesforce.com/apex/Help_DocSiteMapExternalKB?t=ka&language=zh_TW&page=1 </loc>
+</sitemap>
+<sitemap>
+<loc>https://help.salesforce.com/apex/Help_DocSiteMapExternalKB?t=ka&language=es_MX&page=1 </loc>
+</sitemap>
+<sitemap>
+<loc>https://help.salesforce.com/apex/Help_DocSiteMapExternalKB?t=ka&language=no&page=1 </loc>
+</sitemap>
+<sitemap>
+<loc>https://help.salesforce.com/apex/Help_DocSiteMapExternalKB?t=qs&language=en_US&page=1 </loc>
+</sitemap>
+<sitemap>
+<loc>https://help.salesforce.com/apex/Help_DocSiteMapExternalKB?t=qs&language=ja&page=1 </loc>
+</sitemap>
+<sitemap>
+<loc>https://help.salesforce.com/apex/Help_DocSiteMapExternalKB?t=qs&language=it&page=1 </loc>
+</sitemap>
+<sitemap>
+<loc>https://help.salesforce.com/apex/Help_DocSiteMapExternalKB?t=qs&language=de&page=1 </loc>
+</sitemap>
+<sitemap>
+<loc>https://help.salesforce.com/apex/Help_DocSiteMapExternalKB?t=qs&language=es&page=1 </loc>
+</sitemap>
+<sitemap>
+<loc>https://help.salesforce.com/apex/Help_DocSiteMapExternalKB?t=qs&language=fr&page=1 </loc>
+</sitemap>
+<sitemap>
+<loc>https://help.salesforce.com/apex/Help_DocSiteMapExternalKB?t=qs&language=nl_NL&page=1 </loc>
+</sitemap>
+<sitemap>
+<loc>https://help.salesforce.com/apex/Help_DocSiteMapExternalKB?t=qs&language=sv&page=1 </loc>
+</sitemap>
+<sitemap>
+<loc>https://help.salesforce.com/apex/Help_DocSiteMapExternalKB?t=qs&language=da&page=1 </loc>
+</sitemap>
+<sitemap>
+<loc>https://help.salesforce.com/apex/Help_DocSiteMapExternalKB?t=qs&language=fi&page=1 </loc>
+</sitemap>
+<sitemap>
+<loc>https://help.salesforce.com/apex/Help_DocSiteMapExternalKB?t=qs&language=pt_BR&page=1 </loc>
+</sitemap>
+<sitemap>
+<loc>https://help.salesforce.com/apex/Help_DocSiteMapExternalKB?t=qs&language=ru&page=1 </loc>
+</sitemap>
+<sitemap>
+<loc>https://help.salesforce.com/apex/Help_DocSiteMapExternalKB?t=qs&language=ko&page=1 </loc>
+</sitemap>
+<sitemap>
+<loc>https://help.salesforce.com/apex/Help_DocSiteMapExternalKB?t=qs&language=zh_CN&page=1 </loc>
+</sitemap>
+<sitemap>
+<loc>https://help.salesforce.com/apex/Help_DocSiteMapExternalKB?t=qs&language=zh_TW&page=1 </loc>
+</sitemap>
+<sitemap>
+<loc>https://help.salesforce.com/apex/Help_DocSiteMapExternalKB?t=qs&language=es_MX&page=1 </loc>
+</sitemap>
+<sitemap>
+<loc>https://help.salesforce.com/apex/Help_DocSiteMapExternalKB?t=qs&language=no&page=1 </loc>
+</sitemap>
+<sitemap>
+<loc>https://help.salesforce.com/apex/Help_DocSiteMapExternalKB?t=gs&language=en_US&page=1 </loc>
+</sitemap>
+<sitemap>
+<loc>https://help.salesforce.com/apex/Help_DocSiteMapExternalKB?t=gs&language=ja&page=1 </loc>
+</sitemap>
+<sitemap>
+<loc>https://help.salesforce.com/apex/Help_DocSiteMapExternalKB?t=gs&language=it&page=1 </loc>
+</sitemap>
+<sitemap>
+<loc>https://help.salesforce.com/apex/Help_DocSiteMapExternalKB?t=gs&language=de&page=1 </loc>
+</sitemap>
+<sitemap>
+<loc>https://help.salesforce.com/apex/Help_DocSiteMapExternalKB?t=gs&language=es&page=1 </loc>
+</sitemap>
+<sitemap>
+<loc>https://help.salesforce.com/apex/Help_DocSiteMapExternalKB?t=gs&language=fr&page=1 </loc>
+</sitemap>
+<sitemap>
+<loc>https://help.salesforce.com/apex/Help_DocSiteMapExternalKB?t=gs&language=nl_NL&page=1 </loc>
+</sitemap>
+<sitemap>
+<loc>https://help.salesforce.com/apex/Help_DocSiteMapExternalKB?t=gs&language=sv&page=1 </loc>
+</sitemap>
+<sitemap>
+<loc>https://help.salesforce.com/apex/Help_DocSiteMapExternalKB?t=gs&language=da&page=1 </loc>
+</sitemap>
+<sitemap>
+<loc>https://help.salesforce.com/apex/Help_DocSiteMapExternalKB?t=gs&language=fi&page=1 </loc>
+</sitemap>
+<sitemap>
+<loc>https://help.salesforce.com/apex/Help_DocSiteMapExternalKB?t=gs&language=pt_BR&page=1 </loc>
+</sitemap>
+<sitemap>
+<loc>https://help.salesforce.com/apex/Help_DocSiteMapExternalKB?t=gs&language=ru&page=1 </loc>
+</sitemap>
+<sitemap>
+<loc>https://help.salesforce.com/apex/Help_DocSiteMapExternalKB?t=gs&language=ko&page=1 </loc>
+</sitemap>
+<sitemap>
+<loc>https://help.salesforce.com/apex/Help_DocSiteMapExternalKB?t=gs&language=zh_CN&page=1 </loc>
+</sitemap>
+<sitemap>
+<loc>https://help.salesforce.com/apex/Help_DocSiteMapExternalKB?t=gs&language=zh_TW&page=1 </loc>
+</sitemap>
+<sitemap>
+<loc>https://help.salesforce.com/apex/Help_DocSiteMapExternalKB?t=gs&language=es_MX&page=1 </loc>
+</sitemap>
+<sitemap>
+<loc>https://help.salesforce.com/apex/Help_DocSiteMapExternalKB?t=gs&language=no&page=1 </loc>
+</sitemap>
+</sitemapindex>
